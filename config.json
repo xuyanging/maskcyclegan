@@ -1,0 +1,61 @@
+{
+	"version": "9",
+	"hosts": {
+		"gcs": {
+			"url": "https://storage.googleapis.com",
+			"accessKey": "YOUR-ACCESS-KEY-HERE",
+			"secretKey": "YOUR-SECRET-KEY-HERE",
+			"api": "S3v2",
+			"lookup": "dns"
+		},
+		"local": {
+			"url": "http://localhost:9000",
+			"accessKey": "",
+			"secretKey": "",
+			"api": "S3v4",
+			"lookup": "auto"
+		},
+		"play": {
+			"url": "https://play.min.io",
+			"accessKey": "Q3AM3UQ867SPQQA43P2F",
+			"secretKey": "zuf+tfteSlswRu7BJ86wekitnifILbZam1KYY3TG",
+			"api": "S3v4",
+			"lookup": "auto"
+		},
+		"s3": {
+			"url": "https://s3.amazonaws.com",
+			"accessKey": "YOUR-ACCESS-KEY-HERE",
+			"secretKey": "YOUR-SECRET-KEY-HERE",
+			"api": "S3v4",
+			"lookup": "dns"
+		},
+		"s3-ai": {
+			"url": "http://10.130.138.203",
+			"accessKey": "YU9XYQ4X9F7G1K1BCXRY",
+			"secretKey": "wDzEN8iZSKgPxndpP4iVcSCW85a7UoRgbzTDMKNY",
+			"api": "s3v2",
+			"lookup": "auto"
+		},
+        "s3-datasets": {
+			"url": "http://10.129.242.201",
+			"accessKey": "HDMQGQ30I9B2OCTYT6VZ",
+			"secretKey": "c9KbYDJ5pWue1HOD7fcQLppvEEEmFQAfiXaZsE2X",
+			"api": "s3v2",
+			"lookup": "auto"
+        },
+        "s3-label": {
+			"url": "http://10.129.242.201",
+			"accessKey": "BAC3ZWJ940WJHAKFDJYH",
+			"secretKey": "w0zMEiLWtwO8u9pSn9m5iMFjIaS0HkgAOLB8L2Td",
+			"api": "s3v2",
+			"lookup": "auto"
+        },
+        "id": {
+			"url": "http://10.129.242.201",
+			"accessKey": "IRBWURS63LLG5XW7X0TN",
+			"secretKey": "b7Qo8yblt8AOsfMOlmqARvPAcwT3BGwN43rFosgY",
+			"api": "s3v2",
+			"lookup": "auto"
+        }
+	}
+}
