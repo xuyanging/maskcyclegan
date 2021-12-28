@@ -1,3 +1,4 @@
 EBQR6Q9RM4PUTPW6UW9EV88
 https://ww2.mathworks.cn/help/deeplearning/ug/train-generative-adversarial-network.html
 https://www.overleaf.com/read/jyfhznydkxwg
+https://github.com/maudzung/Complex-YOLOv4-Pytorch/blob/564e8e35ad81f5a9f1a24ca4ceaf10908a100bfd/src/utils/iou_rotated_boxes_utils.py#L118
